@@ -1,0 +1,32 @@
+.info {
+    /* border: 1px solid black; */
+    margin-top: 30px;
+}
+.card-header {
+    background-color: white;
+}
+.subCardOne {
+    border-right: 1px solid lightgray;
+}
+.subCardTwo {
+    border-left: 1px solid lightgray;
+}
+.arrowSign {
+    width: 20px;
+    height: 20px;
+}
+.card {
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+.card-header {
+    background-image: url("https://t4.ftcdn.net/jpg/04/61/23/23/360_F_461232389_XCYvca9n9P437nm3FrCsEIapG4SrhufP.jpg");
+}
+.card-body {
+    background-color: gray;
+}
+.card:hover {
+    color: black;
+}
